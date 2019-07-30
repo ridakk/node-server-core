@@ -1,0 +1,46 @@
+{
+  "name": "node-server-core-graceful",
+  "version": "0.0.1",
+  "description": "graceful stop utility",
+  "keywords": [
+    "node",
+    "server",
+    "graceful"
+  ],
+  "author": "ridakk <kadirgoktas@gmail.com>",
+  "homepage": "https://github.com/ridakk/node-server-core/tree/master/packages/node-server-core-graceful#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridakk/node-server-core.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ridakk/node-server-core/issues"
+  },
+  "dependencies": {
+    "death": "^1.1.0",
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-bundle": "^1.0.0",
+    "eslint-plugin-dependencies": "^2.4.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-json": "^1.4.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-security": "^1.4.0"
+  }
+}
