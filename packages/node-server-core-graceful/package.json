@@ -1,6 +1,6 @@
 {
   "name": "node-server-core-graceful",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "graceful stop utility",
   "keywords": [
     "node",
