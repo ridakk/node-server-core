@@ -4,7 +4,8 @@
   "description": "Core utility for NodeJs server",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "bootstrap": "lerna bootstrap"
   },
   "repository": {
     "type": "git",
